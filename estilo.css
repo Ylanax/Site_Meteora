@@ -213,3 +213,35 @@ body{
     line-height: 19px;
     font-weight: 500;
 }
+
+.facilidades{
+    margin-top: 50px;
+    background-color: #000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #fff;
+}
+
+.titulo-facilidades{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 39px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.icones{
+    width: 976px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conjunto-icone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 256px;
+}
